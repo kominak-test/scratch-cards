@@ -1,0 +1,23 @@
+.DS_Store
+.Trashes
+*.sw?
+.gitattributes
+
+xcuserdata/
+*.xccheckout
+*.xcscmblueprint
+*.xcuserstate
+
+Pods
+
+Carthage/
+
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+fastlane/snapshots
+
+# Swift Package Manager
+.build/
+
